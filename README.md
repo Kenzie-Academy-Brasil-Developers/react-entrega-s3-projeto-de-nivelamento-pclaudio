@@ -1,1 +1,0 @@
-# react-entrega-s3-projeto-de-nivelamento
